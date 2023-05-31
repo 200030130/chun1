@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+0
 @Composable
 fun Greeting(name: String) {
     Text(text = "Hello $name!")
